@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Screen color test</string>
+    <string name="lcd_test_tip">Touch Continue</string>
+    <string name="lcd_test_completed_tip">Color Test Completed</string>
+
+</resources>

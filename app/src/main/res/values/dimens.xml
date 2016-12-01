@@ -1,0 +1,7 @@
+<resources>
+
+    <integer name="lcd_test_rect_width">60</integer>
+    <integer name="lcd_test_rect_height">60</integer>
+    <dimen name="lcd_test_text_size">24sp</dimen>
+
+</resources>
